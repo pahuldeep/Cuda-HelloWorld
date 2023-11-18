@@ -2,6 +2,7 @@
 
 Used Both methods
 
-Cmake - CmakeLists.txt
-Qmake - qtLink.pro
+```Cmake - CmakeLists.txt```
+and
+```Qmake - qtLink.pro```
 
