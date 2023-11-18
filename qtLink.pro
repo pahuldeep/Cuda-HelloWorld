@@ -12,8 +12,7 @@ CUDA_SOURCES += hello.cu
 #CUDA COMPILER SETUP
 #================================================================
 
-## Define output directories
-
+# Define output directories
 CUDA_OBJECTS_DIR = .
 
 # MSVCRT link option (static or dynamic, it must be the same with your Qt SDK link option)
