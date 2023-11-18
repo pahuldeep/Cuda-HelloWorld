@@ -13,8 +13,6 @@ CUDA_SOURCES += hello.cu
 #================================================================
 
 ## Define output directories
-#DESTDIR = ../bin
-#CUDA_OBJECTS_DIR = OBJECTS_DIR/../cuda
 
 CUDA_OBJECTS_DIR = .
 
